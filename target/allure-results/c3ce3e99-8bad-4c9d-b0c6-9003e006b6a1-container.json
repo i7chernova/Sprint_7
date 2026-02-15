@@ -1,0 +1,1 @@
+{"uuid":"c3ce3e99-8bad-4c9d-b0c6-9003e006b6a1","name":"Нельзя авторизоваться без логина","children":["c6bf7ba9-a841-4c38-a406-4ddf9227b7ae"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1771161041490,"stop":1771161041491}],"start":1771161041369,"stop":1771161041497}

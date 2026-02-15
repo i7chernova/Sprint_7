@@ -1,0 +1,1 @@
+{"uuid":"1f353c82-9ceb-4581-a4da-212002311fa0","name":"Нельзя авторизоваться с неправильным логином","children":["2a5df0a5-b043-473d-bb0e-53da0d9d6288"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1771161041626,"stop":1771161041626}],"start":1771161041500,"stop":1771161041628}
