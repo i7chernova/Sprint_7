@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: CourierLoginTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 61.092 s <<< FAILURE! - in CourierLoginTest
+testLoginWithoutPassword  Time elapsed: 60.156 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <504>.
+
+	at CourierLoginTest.testLoginWithoutPassword(CourierLoginTest.java:87)
+

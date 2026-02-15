@@ -1,0 +1,10 @@
+model\CourierCredentials.class
+TestDataGenerator.class
+model\Courier.class
+client\OrderClient.class
+client\BaseClient.class
+client\CourierClient.class
+model\Courier$CourierBuilder.class
+model\CourierCredentials$CourierCredentialsBuilder.class
+model\Order$OrderBuilder.class
+model\Order.class
